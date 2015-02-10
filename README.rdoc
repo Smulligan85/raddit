@@ -1,1 +1,4 @@
-Reddit Clone Created With Ruby on Rails
+== REDDIT CLONE
+
+Made with Ruby on Rails
+Created by Sean Mulligan, February 2015
